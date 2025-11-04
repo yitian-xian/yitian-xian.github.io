@@ -30,10 +30,10 @@ My research interests include novel design and control of medical robots and sys
 #### Education:
 
 * **Ph.D. in Medical Robotics**, 2025<br>
-&emsp;Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong
+Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong
 
 * **M.Sc. in Robotics (Distinction)**, 2019<br>
-&emsp; &emsp; Faculty of Science and Engineering, University of Bristol, Bristol
+Faculty of Science and Engineering, University of Bristol, Bristol
 
 * **B.Eng. in Energy and Power Engineering (Top 5%)**, 2018<br>
-&emsp; &emsp; Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
+Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
