@@ -23,15 +23,19 @@ Welcome to my personal website!
 
 My name is Yitian Xian, and I am currently a Postdoctoral Researcher focusing on medical robotics at The Chinese University of Hong Kong (CUHK), supervised by Prof. Li Zheng. My research interests include design and control of medical robots and systems, as well as their safe, intuitive, and intelligent collaboration with surgeons.
 
+
 ### Education:
 
 **Ph.D.** in Medical Robotics, 2025
+
 Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong, China
 
 **M.Sc.** in Robotics (Distinction), 2019
+
 Faculty of Science and Engineering, University of Bristol, Bristol, England
 
 **B.Eng.** in Energy and Power Engineering (Top 5%), 2018
+
 Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai, China
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
