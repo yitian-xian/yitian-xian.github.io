@@ -25,15 +25,15 @@ My name is Yitian Xian, and I am currently a Postdoctoral Researcher focusing on
 
 ### Education:
 
-**Ph.D. in Medical Robotics**, 2025
+* **Ph.D. in Medical Robotics**, 2025
 
 Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong
 
-**M.Sc. in Robotics (Distinction)**, 2019
+* **M.Sc. in Robotics (Distinction)**, 2019
 
 Faculty of Science and Engineering, University of Bristol, Bristol
 
-**B.Eng. in Energy and Power Engineering (Top 5%)**, 2018
+* **B.Eng. in Energy and Power Engineering (Top 5%)**, 2018
 
 Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
 
