@@ -28,15 +28,15 @@ My name is Yitian Xian, and I am currently a Postdoctoral Researcher focusing on
 #### Education:
 
 * **Ph.D. in Medical Robotics**, 2025
-* 
+
 &emsp; &emsp; Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong
 
 * **M.Sc. in Robotics (Distinction)**, 2019
-* 
+
 &emsp; &emsp; Faculty of Science and Engineering, University of Bristol, Bristol
 
 * **B.Eng. in Energy and Power Engineering (Top 5%)**, 2018
-* 
+
 &emsp; &emsp; Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
