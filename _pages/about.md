@@ -40,7 +40,7 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 #### Selected publications (in chronological order):<br>
 
-[1] **<u>Y. Xian</u>**, Y. Sun, and et al., “[Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation](https://ieeexplore.ieee.org/document/10907778),” *IEEE/ASME Transactions on Mechatronics*, 2025.
+[1] **<u>Y. Xian</u>**, Y. Sun, and et al., **[“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”](https://ieeexplore.ieee.org/document/10907778)** *IEEE/ASME Transactions on Mechatronics*, 2025.
 
 [2] **<u>Y. Xian</u>**, Y. Sun, and et al., **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025.
 
@@ -62,7 +62,7 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 [11] J. Li, Y. Huang, X. Zhang, K. Xie, **<u>Y. Xian</u>**, and et al., **“An autonomous Surgical Instrument Tracking Framework with a Binocular Camera for a Robotic Flexible Laparoscope,”** *IEEE Robotics and Automation Letters*, 2023.
 
-[12] Y. Li, W.Y. Ng, Y. Huang, Y. Jiang, **<u>Y. Xian</u>**, and et al.i, **“Towards Semi-Autonomous Manipulation of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on Visual Servo Control,”** *2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2022.
+[12] Y. Li, W.Y. Ng, Y. Huang, Y. Jiang, **<u>Y. Xian</u>**, and et al., **“Towards Semi-Autonomous Manipulation of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on Visual Servo Control,”** *2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2022.
 
 [13] J. Li, X. Zhang, Y. Huang, X. Luo, K. Xie, **<u>Y. Xian</u>**, and et al., **“3D Visual Servo Control of a Flexible Endoscope with RCM Constraint,”** *International Conference on Intelligent Robotics and Applications*, 2022.
 
