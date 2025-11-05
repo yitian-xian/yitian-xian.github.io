@@ -40,9 +40,9 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 #### Selected publications (in chronological order):
 
-[1] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”** *IEEE/ASME Transactions on Mechatronics*, 2025.
+[1] **<u>Y. Xian</u>**, Y. Sun, and et al., **“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”** *IEEE/ASME Transactions on Mechatronics*, 2025.
 
-[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025.
+[2] **<u>Y. Xian</u>**, Y. Sun, and et al., **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025.
 
 [3] Y. Sun, **<u>Y. Xian</u>**, R. Xu, W.S. Chan, H.C. Yip, P.W.Y. Chiu, Z. Li, **“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”** *IEEE Transactions on Robotics (accepted)*, 2025.
 
