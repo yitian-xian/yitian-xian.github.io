@@ -37,3 +37,11 @@ Faculty of Science and Engineering, University of Bristol, Bristol
 
 * **B.Eng. in Energy and Power Engineering (Top 5%)**, 2018<br>
 Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
+
+#### Selected publications:
+
+[1] 
+
+[2]
+
+[3]
