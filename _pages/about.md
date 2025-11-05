@@ -56,6 +56,20 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 [8] Y. Sun, Y. Li, J. Li, W.Y. Ng, **<u>Y. Xian</u>**, Y. Huang, P.W.Y. Chiu, Z Li, **“Model-Based Bending Control of Magnetically-Actuated Robotic Endoscopes for Automatic Retroflexion in Confined Spaces,”** *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2023.
 
-[9] X. Luo, **<u>Y. Xian</u>**, M. Lei, J. Li, K. Xie, L. Zou, Z. Li, **“Robotic Kinematic Calibration with only Position Data and Consideration of Non-Geometric Errors using POE-Based Model and Gaussian Mixture Models,”** *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2023.
+[9] X. Luo, **<u>Y. Xian</u>**, M. Lei, J. Li, K. Xie, L. Zou, Z. Li, **“Robotic Kinematic Calibration with Only Position Data and Consideration of Non-Geometric Errors Using POE-Based Model and Gaussian Mixture Models,”** *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2023.
 
-[10] Y. Li, W.Y. Ng, W. Li, Y. Huang, H. Zhang, **<u>Y. Xian</u>**, J. Li, Y. Sun, P.W.Y. Chiu, Z. Li, **“Towards semi-autonomous colon screening using an electromagnetically actuated soft-tethered colonoscope based on visual servo control,”** *IEEE Transactions on Biomedical Engineering*, 2023.
+[10] Y. Li, W.Y. Ng, W. Li, Y. Huang, H. Zhang, **<u>Y. Xian</u>**, J. Li, Y. Sun, P.W.Y. Chiu, Z. Li, **“Towards Semi-Autonomous Colon Screening Using an Electromagnetically Actuated Soft-Tethered Colonoscope Based on visual servo control,”** *IEEE Transactions on Biomedical Engineering*, 2023.
+
+[11] J. Li, Y. Huang, X. Zhang, K. Xie, **<u>Y. Xian</u>**, X. Luo, P.W.Y. Chiu, Z. Li, **“An autonomous Surgical Instrument Tracking Framework with a Binocular Camera for a Robotic Flexible Laparoscope,”** *IEEE Robotics and Automation Letters*, 2023.
+
+[12] Y. Li, W.Y. Ng, Y. Huang, Y. Jiang, **<u>Y. Xian</u>**, W. Xin, P.W.Y. Chiu, Z. Li, **“Towards Semi-Autonomous Manipulation of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on Visual Servo Control,”** *2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2022.
+
+[13] J. Li, X. Zhang, Y. Huang, X. Luo, K. Xie, **<u>Y. Xian</u>**, P.W.Y. Chiu, Z. Li, **“3D Visual Servo Control of a Flexible Endoscope with RCM Constraint,”** *International Conference on Intelligent Robotics and Applications*, 2022.
+
+[14] X. Zhang, **<u>Y. Xian</u>**, Z. Cui, P.W.Y. Chiu, Z. Li, **“Design and Modeling of a Novel DNA-Inspired Helix-Based Continuum Mechanism (DHCM),”** *Mechanism and Machine Theory*, 2022.
+
+[15] X. Zhang, **<u>Y. Xian</u>**, J. Li, P.W.Y. Chiu, Z. Li, **“Configuration, Layout, and Pose Optimization of Surgical Robotic System,”** *2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)*, 2021.
+
+[16] X. Zhang, W. Li, W.Y. Ng, Y. Huang, **<u>Y. Xian</u>**, P.W.Y. Chiu, Z. Li, **“An Autonomous Robotic Flexible Endoscope System with a DNA-Inspired Continuum Mechanism,”** *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
+
+[17] Y. Li, W. Li, W. Xin, X. Zhang, **<u>Y. Xian</u>**, P.W.Y. Chiu, Z. Li, **“Orientation Control of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on 2OR Pseudo-Rigid-Body Model,”** *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
