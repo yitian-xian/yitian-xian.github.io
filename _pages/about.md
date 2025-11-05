@@ -29,14 +29,23 @@ My research interests include novel design and control of medical robots and sys
 
 #### Education:
 
-* **Ph.D. in Medical Robotics**, 2025<br>
+* **Ph.D. in Medical Robotics**, 2021-2025<br>
 Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong
 
-* **M.Sc. in Robotics (Distinction)**, 2019<br>
+* **M.Sc. in Robotics (Distinction)**, 2018-2019<br>
 Faculty of Science and Engineering, University of Bristol, Bristol
 
-* **B.Eng. in Energy and Power Engineering (Top 5%)**, 2018<br>
+* **B.Eng. in Energy and Power Engineering (Top 5%)**, 2014-2018<br>
 Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
+
+
+
+#### Working & Teaching experience:
+* **Research assistant**, 2020-2021<br>
+Chow Yuk Ho Technology Centre for Innovative Medicine, The Chinese University of Hong Kong, Hong Kong
+
+* **Teaching assistant for MSc course (BMEG 5750)**, 2023-2025<br>
+The Chinese University of Hong Kong, Hong Kong
 
 #### Selected publications in chronological order:<br>
 
@@ -75,3 +84,4 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 [17] X. Zhang, W. Li, W.Y. Ng, Y. Huang, **<u>Y. Xian</u>**, and et al., [“An Autonomous Robotic Flexible Endoscope System with a DNA-Inspired Continuum Mechanism,”](https://ieeexplore.ieee.org/document/9561651) *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
 
 [18] Y. Li, W. Li, W. Xin, X. Zhang, **<u>Y. Xian</u>**, and et al., [“Orientation Control of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on 2OR Pseudo-Rigid-Body Model,”](https://ieeexplore.ieee.org/document/9561742) *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
+
