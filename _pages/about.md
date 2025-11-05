@@ -42,11 +42,10 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 #### Working & Teaching experience:
 * **Research assistant**, 2020-2021<br>
-Chow Yuk Ho Technology Centre for Innovative Medicine,<br>
-The Chinese University of Hong Kong, Hong Kong
+Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong
 
 * **Teaching assistant for MSc course (BMEG 5750)**, 2023-2025<br>
-The Chinese University of Hong Kong, Hong Kong
+Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong
 
 #### Selected publications in chronological order:<br>
 
