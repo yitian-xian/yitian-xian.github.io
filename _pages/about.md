@@ -42,9 +42,9 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 [1] **<u>Y. Xian</u>**, Y. Sun, and et al., [“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”](https://ieeexplore.ieee.org/document/10907778) *IEEE/ASME Transactions on Mechatronics*, 2025.
 
-[2] **<u>Y. Xian</u>**, Y. Sun, and et al., **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025.
+[2] **<u>Y. Xian</u>**, Y. Sun, and et al., **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2025.
 
-[3] X. Luo, Z. Jiang, M.C. Lei, Y. Xian, and et al., **“Design and Geometry-Aware Planning of a Novel Probe-Scanning Manipulator with RCM Constraint,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025. [IROS Best paper finalist on Robot Mechanisms and Design]
+[3] X. Luo, Z. Jiang, M.C. Lei, Y. Xian, and et al., **“Design and Geometry-Aware Planning of a Novel Probe-Scanning Manipulator with RCM Constraint,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2025. `[IROS Best paper finalist on Robot Mechanisms and Design]`
 
 [4] Y. Sun, **<u>Y. Xian</u>**, and et al., **“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”** *IEEE Transactions on Robotics (accepted)*, 2025.
 
