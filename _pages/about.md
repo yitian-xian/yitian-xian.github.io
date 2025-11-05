@@ -64,12 +64,12 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 [12] Y. Li, W.Y. Ng, Y. Huang, Y. Jiang, **<u>Y. Xian</u>**, and et al., [“Towards Semi-Autonomous Manipulation of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on Visual Servo Control,”](https://ieeexplore.ieee.org/document/10011818) *2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2022.
 
-[13] J. Li, X. Zhang, Y. Huang, X. Luo, K. Xie, **<u>Y. Xian</u>**, and et al., **“3D Visual Servo Control of a Flexible Endoscope with RCM Constraint,”** *International Conference on Intelligent Robotics and Applications*, 2022.
+[13] J. Li, X. Zhang, Y. Huang, X. Luo, K. Xie, **<u>Y. Xian</u>**, and et al., [“3D Visual Servo Control of a Flexible Endoscope with RCM Constraint,”](https://link.springer.com/chapter/10.1007/978-3-031-13841-6_5) *International Conference on Intelligent Robotics and Applications*, 2022.
 
-[14] X. Zhang, **<u>Y. Xian</u>**, and et al., **“Design and Modeling of a Novel DNA-Inspired Helix-Based Continuum Mechanism (DHCM),”** *Mechanism and Machine Theory*, 2022.
+[14] X. Zhang, **<u>Y. Xian</u>**, and et al., [“Design and Modeling of a Novel DNA-Inspired Helix-Based Continuum Mechanism (DHCM),”](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21004298) *Mechanism and Machine Theory*, 2022.
 
-[15] X. Zhang, **<u>Y. Xian</u>**, and et al., **“Configuration, Layout, and Pose Optimization of Surgical Robotic System,”** *2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)*, 2021.
+[15] X. Zhang, **<u>Y. Xian</u>**, and et al., [“Configuration, Layout, and Pose Optimization of Surgical Robotic System,”](https://ieeexplore.ieee.org/document/9665151) *2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)*, 2021.
 
-[16] X. Zhang, W. Li, W.Y. Ng, Y. Huang, **<u>Y. Xian</u>**, and et al., **“An Autonomous Robotic Flexible Endoscope System with a DNA-Inspired Continuum Mechanism,”** *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
+[16] X. Zhang, W. Li, W.Y. Ng, Y. Huang, **<u>Y. Xian</u>**, and et al., [“An Autonomous Robotic Flexible Endoscope System with a DNA-Inspired Continuum Mechanism,”](https://ieeexplore.ieee.org/document/9561651) *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
 
-[17] Y. Li, W. Li, W. Xin, X. Zhang, **<u>Y. Xian</u>**, and et al., **“Orientation Control of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on 2OR Pseudo-Rigid-Body Model,”** *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
+[17] Y. Li, W. Li, W. Xin, X. Zhang, **<u>Y. Xian</u>**, and et al., [“Orientation Control of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on 2OR Pseudo-Rigid-Body Model,”](https://ieeexplore.ieee.org/document/9561742) *2021 IEEE International Conference on Robotics and Automation (ICRA)*, 2021.
