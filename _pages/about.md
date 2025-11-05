@@ -40,15 +40,15 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 #### Selected publications (in chronological order):<br>
 
-[1] **<u>Y. Xian</u>**, Y. Sun, and et al., **[“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”](https://ieeexplore.ieee.org/document/10907778)** *IEEE/ASME Transactions on Mechatronics*, 2025.
+[1] **<u>Y. Xian</u>**, Y. Sun, and et al., [“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”](https://ieeexplore.ieee.org/document/10907778) *IEEE/ASME Transactions on Mechatronics*, 2025.
 
 [2] **<u>Y. Xian</u>**, Y. Sun, and et al., **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025.
 
 [3] Y. Sun, **<u>Y. Xian</u>**, and et al., **“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”** *IEEE Transactions on Robotics (accepted)*, 2025.
 
-[4] Y. Sun, R. Xu, Z. Jiang, **<u>Y. Xian</u>**, and et al., **“A Novel Wireless Magnetic Master Device for Six-DoF Robotic Teleoperation Control with Expandable Workspace,”** *IEEE Transactions on Automation Science and Engineering*, 2025.
+[4] Y. Sun, R. Xu, Z. Jiang, **<u>Y. Xian</u>**, and et al., [“A Novel Wireless Magnetic Master Device for Six-DoF Robotic Teleoperation Control with Expandable Workspace,”](https://ieeexplore.ieee.org/document/11224876) *IEEE Transactions on Automation Science and Engineering*, 2025.
 
-[5] X. Luo, M.C. Lei, **<u>Y. Xian</u>**, and et al., **“A Novel Integrated Mechanism With Dual RCM-Constraints Toward Robotic Transperineal Prostate Biopsy,”** *IEEE/ASME Transactions on Mechatronics*, 2025.
+[5] X. Luo, M.C. Lei, **<u>Y. Xian</u>**, and et al., [“A Novel Integrated Mechanism With Dual RCM-Constraints Toward Robotic Transperineal Prostate Biopsy,”](https://ieeexplore.ieee.org/document/10970064) *IEEE/ASME Transactions on Mechatronics*, 2025.
 
 [6] X. Zhang, J. Li, Y. Huang, **<u>Y. Xian</u>**, and et al., **“Design and Optimal Pose‐Constrained Visual Servoing of a Novel Active Flexible Endoscope Holder System for Solo Laparoscopic Surgery,”** *Advanced Intelligent Systems*, 2024.
 
