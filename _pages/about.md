@@ -42,7 +42,7 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 [1] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”** *IEEE/ASME Transactions on Mechatronics*, 2025.
 
-[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*， 2025.
+[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*，2025.
 
 [3] Y. Sun, **<u>Y. Xian</u>**, R. Xu, W.S. Chan, H.C. Yip, P.W.Y. Chiu, Z. Li, **“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”** *IEEE Transactions on Robotics (accepted)*, 2025.
 
@@ -50,7 +50,7 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 [5] X. Luo, M.C. Lei, **<u>Y. Xian</u>**, Y. Hu, L. Zou, K. Xie, P.K.F. Chiu, Z. Li, **“A Novel Integrated Mechanism With Dual RCM-Constraints Toward Robotic Transperineal Prostate Biopsy,”** *IEEE/ASME Transactions on Mechatronics*, 2025.
 
-[6] X. Zhang, J. Li, Y. Huang, Y. Xian, M.Q.H. Meng, P.W.Y. Chiu, Z. Li, **“Design and Optimal Pose‐Constrained Visual Servoing of a Novel Active Flexible Endoscope Holder System for Solo Laparoscopic Surgery,”** *Advanced Intelligent Systems*, 2024.
+[6] X. Zhang, J. Li, Y. Huang, **<u>Y. Xian</u>**, M.Q.H. Meng, P.W.Y. Chiu, Z. Li, **“Design and Optimal Pose‐Constrained Visual Servoing of a Novel Active Flexible Endoscope Holder System for Solo Laparoscopic Surgery,”** *Advanced Intelligent Systems*, 2024.
 
 [7] **<u>Y. Xian</u>**, X. Zhang, X. Luo, J. Li, L. Zou, K. Xie, J. Li, Y. Li, Y. Huang, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“A Semi-Autonomous Stereotactic Brain Biopsy Robotic System with Enhanced Surgical Safety and Surgeon-Robot Collaboration,”** *IEEE Transactions on Biomedical Engineering*, 2023.
 
