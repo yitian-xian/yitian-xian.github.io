@@ -40,8 +40,8 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 #### Selected publications:
 
-[1] **<u>Y. Xian</u>**, X. Zhang, X. Luo, J. Li, L. Zou, K. Xie, J. Li, Y. Li, Y. Huang, D.T.M. Chan, D.Y.C. Chan, and Z. Li, “A semi-autonomous stereotactic brain biopsy robotic system with enhanced surgical safety and surgeon-robot collaboration,” IEEE Transactions on Biomedical Engineering, 2023.
+[1] **<u>Y. Xian</u>**, X. Zhang, X. Luo, J. Li, L. Zou, K. Xie, J. Li, Y. Li, Y. Huang, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **<u>“A semi-autonomous stereotactic brain biopsy robotic system with enhanced surgical safety and surgeon-robot collaboration,”</u>** *IEEE Transactions on Biomedical Engineering*, 2023.
 
-[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, “Task automated stereotactic brain biopsy robotic system with CLF-CBF-based safetycritical neuronavigation,” IEEE/ASME Transactions on Mechatronics, 2025.
+[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **<u>““Task automated stereotactic brain biopsy robotic system with CLF-CBF-based safetycritical neuronavigation,”</u>** *IEEE/ASME Transactions on Mechatronics*, 2025.
 
 [3]
