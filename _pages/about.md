@@ -40,8 +40,11 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 
 #### Selected publications:
 
-[1] **<u>Y. Xian</u>**, X. Zhang, X. Luo, J. Li, L. Zou, K. Xie, J. Li, Y. Li, Y. Huang, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“A semi-autonomous stereotactic brain biopsy robotic system with enhanced surgical safety and surgeon-robot collaboration,”** *IEEE Transactions on Biomedical Engineering*, 2023.
+[1] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”** *IEEE/ASME Transactions on Mechatronics*, 2025.<br>
+[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Non-Contact Hand-Guided Coarse Positioning of Neurosurgical Instrument Insertion End Effector Based on Magnetic Sensing,”** accepted by 2025 *IEEE/RSJ International Conference on Intelligent Robots and Systems*， 2025.<br>
+[3] **<u>Y. Xian</u>**, X. Zhang, X. Luo, J. Li, L. Zou, K. Xie, J. Li, Y. Li, Y. Huang, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“A Semi-Autonomous Stereotactic Brain Biopsy Robotic System with Enhanced Surgical Safety and Surgeon-Robot Collaboration,”** *IEEE Transactions on Biomedical Engineering*, 2023.<br>
+[4] Y. Sun, **<u>Y. Xian</u>**, R. Xu, W.S. Chan, H.C. Yip, P.W.Y. Chiu, Z. Li, **“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”** *IEEE Transactions on Robotics (accepted)*, 2025.<br>
+[5] Y. Sun, R. Xu, Z. Jiang, **<u>Y. Xian</u>**,, Z. Chen, H.C. Yip, P.W.Y. Chiu, Z. Li, **“A Novel Wireless Magnetic Master Device for Six-DoF Robotic Teleoperation Control with Expandable Workspace,”** *IEEE Transactions on Automation Science and Engineering*, 2025.<br>
+[6] 
 
-[2] **<u>Y. Xian</u>**, Y. Sun, X. Luo, Y. Hu, L. Zou, D.T.M. Chan, D.Y.C. Chan, and Z. Li, **“Task automated stereotactic brain biopsy robotic system with CLF-CBF-based safetycritical neuronavigation,”** *IEEE/ASME Transactions on Mechatronics*, 2025.
 
-[3]
