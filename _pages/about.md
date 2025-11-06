@@ -25,7 +25,7 @@ My name is Yitian Xian, and I am currently a Postdoctoral Researcher focusing on
 
 My research interests include novel design and control of medical robots and systems, as well as their safe, intuitive, and intelligent collaboration with surgeons. I am enthusiastic about investigating innovative technology to advance safety and surgeon-robot interaction in robotic surgery.
 
-
+<br/>
 
 #### Education:
 
@@ -38,7 +38,7 @@ Faculty of Science and Engineering, University of Bristol, Bristol
 * **B.Eng. in Energy and Power Engineering (Top 5%)**, 2014-2018<br>
 Faculty of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai
 
-
+<br/>
 
 #### Working & Teaching experience:
 * **Research assistant**, 2020-2021<br>
