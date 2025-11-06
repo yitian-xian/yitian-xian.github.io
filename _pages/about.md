@@ -47,6 +47,8 @@ Chow Y.H. Technology Centre for Innovative Medicine, The Chinese University of H
 * **Teaching assistant for MSc course (BMEG 5750)**, 2023-2025<br>
 Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong
 
+<br/>
+
 #### Selected publications in chronological order:<br>
 
 [1] **<u>Y. Xian</u>**, Y. Sun, and et al., [“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”](https://ieeexplore.ieee.org/document/10907778) *IEEE/ASME Transactions on Mechatronics*, 2025.
