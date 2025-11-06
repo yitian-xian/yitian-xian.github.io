@@ -44,7 +44,7 @@ Faculty of Energy and Power Engineering, University of Shanghai for Science and 
 * **Research assistant**, 2020-2021<br>
 Chow Y.H. Technology Centre for Innovative Medicine, The Chinese University of Hong Kong, Hong Kong
 
-* **Teaching assistant for MSc course (BMEG 5750)**, 2023-2025<br>
+* **Teaching assistant for M.Sc. course (BMEG 5750)**, 2023-2025<br>
 Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong
 
 <br/>
