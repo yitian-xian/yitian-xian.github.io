@@ -49,7 +49,7 @@ Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong 
 
 <br/>
 
-#### Selected publications in chronological order:<br>
+#### Selected publications (most recent first):<br>
 
 [1] **<u>Y. Xian</u>**, Y. Sun, and et al., [“Task Automated Stereotactic Brain Biopsy Robotic System with CLF-CBF-Based Safety-Critical Neuronavigation,”](https://ieeexplore.ieee.org/document/10907778) *IEEE/ASME Transactions on Mechatronics*, 2025.
 
