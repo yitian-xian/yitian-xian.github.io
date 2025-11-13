@@ -57,7 +57,7 @@ Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong 
 
 [3] X. Luo, Z. Jiang, M.C. Lei, **<u>Y. Xian</u>**, and et al., **“Design and Geometry-Aware Planning of a Novel Probe-Scanning Manipulator with RCM Constraint,”** *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2025. `[IROS Best Paper Finalist on Robot Mechanisms and Design]`
 
-[4] Y. Sun, **<u>Y. Xian</u>**, and et al., **“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”** *IEEE Transactions on Robotics (accepted)*, 2025.
+[4] Y. Sun, **<u>Y. Xian</u>**, and et al., [“A MagsL-HUD Endoscopic System for Magnetic Compression Anastomosis Surgery in Unstructured Endoluminal Environment,”](https://ieeexplore.ieee.org/document/11242002) *IEEE Transactions on Robotics (accepted)*, 2025.
 
 [5] Y. Sun, R. Xu, Z. Jiang, **<u>Y. Xian</u>**, and et al., [“A Novel Wireless Magnetic Master Device for Six-DoF Robotic Teleoperation Control with Expandable Workspace,”](https://ieeexplore.ieee.org/document/11224876) *IEEE Transactions on Automation Science and Engineering*, 2025.
 
