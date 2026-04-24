@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Demo of my robotics knowledge and projects.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [Ph.D., ROS 2]
 horizontal: false
 ---
 
